@@ -1,4 +1,4 @@
-# 🚀 Cyprians Mwanza | Software Engineer👨‍💻
+# 👨‍💻Cyprians Mwanza | Software Engineer👨‍💻
 
 🌍 Nairobi, Kenya | 📧 cypriansmwanza@gmail.com | [🔗 LinkedIn](https://www.linkedin.com/in/cyprians-mwanza-3665882b1?)  
 
