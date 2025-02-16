@@ -9,7 +9,7 @@ I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya with 5
 
 ## 💻 Tech Stack  
 
-🚀 **Languages:** Java (Strong), Kotlin, Python, JavaScript  
+🚀 **Languages:** Java (Strong), Kotlin, Python, JavaScript  ,Go Lang, React js.
 📦 **Backend Frameworks:** Spring Boot, Spring Security, Hibernate/JPA, Django  
 🖥 **Frontend Technologies:** Thymeleaf, JSP  
 🛠 **Tools & Platforms:** Docker, Jenkins, GitLab, AWS (S3, EC2)  
