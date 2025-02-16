@@ -51,7 +51,7 @@ I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya with 5
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
 
----
+
 
 ## 🏆 Certifications  
 ✅ **Oracle Certified Professional: Java SE**  
