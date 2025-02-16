@@ -47,4 +47,5 @@ I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya with 5
 💼 **LinkedIn:** https://www.linkedin.com/in/cyprians-mwanza-3665882b1? 
 
 📧 **Email:** cypriansmwanza@gmail.com  
+
 🌎 **Portfolio:**  https://dainty-cajeta-33ae41.netlify.app/
