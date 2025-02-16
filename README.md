@@ -2,8 +2,9 @@
 
 🌍 Nairobi, Kenya | 📧 cypriansmwanza@gmail.com | [🔗 LinkedIn](https://linkedin.com/in/cyprians-mwanza)  
 
-## 👋 Hello, World!  
-I'm a **Java Developer** with expertise in **Spring Boot, Microservices, and Cloud Computing**. Passionate about writing **scalable, secure, and high-performance** applications. I thrive on solving complex problems and building impactful software solutions.
+## 👋 Hello!  
+I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya.
+I am a Full Stack Software Engineer From Nairobi, Kenya with 5 years of Experience in various programming languages and technologies. I possess extensive experience in web development, mobile app development, and AI & machine learning. My goal is to build efficient, scalable, and user-friendly applications that solve real-world problems.
 
 ---
 
