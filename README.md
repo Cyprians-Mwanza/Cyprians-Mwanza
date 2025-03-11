@@ -23,7 +23,7 @@ I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya with 5
 
 🔍 **Testing:** JUnit, Mockito, Integration Testing  .
 
-📱 **Mobile Development:** Kotlin, Firebase  
+📱 **Mobile Development:** Flutter Dart, Firebase  
 ---
 
 
