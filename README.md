@@ -1,9 +1,9 @@
 # 👨‍💻Cyprians Mwanza | Software Engineer👨‍💻
 
-🌍 Nairobi, Kenya | 📧 cypriansmwanza@gmail.com | [🔗 LinkedIn](https://www.linkedin.com/in/cyprians-mwanza-3665882b1?)  🌎 [Portfolio]( https://dainty-cajeta-33ae41.netlify.app/)
+🌍 Nairobi, Kenya | 📧 cypriansmwanza@gmail.com | [🔗 LinkedIn](https://www.linkedin.com/in/cyprians-mwanza-3665882b1?)  🌎 Project(villebiz.com)
 
 ## 👋 Hello!  
-I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya with 5 years of Experience in various programming languages and technologies. I possess extensive experience in web development, mobile app development, and AI & machine learning. My goal is to build efficient, scalable, and user-friendly applications that solve real-world problems.
+I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya with 2 years of Experience in various programming languages and technologies. I possess extensive experience in web development, mobile app development, and AI & machine learning. My goal is to build efficient, scalable, and user-friendly applications that solve real-world problems.
 
 ---
 
@@ -74,4 +74,4 @@ I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya with 5
 
 📧 Email cypriansmwanza@gmail.com
 
-🌎 [Portfolio]( https://dainty-cajeta-33ae41.netlify.app/)
+🌎 [Project]( villebiz.com)
