@@ -3,7 +3,7 @@
 🌍 Nairobi, Kenya | 📧 cypriansmwanza@gmail.com | [🔗 LinkedIn](https://www.linkedin.com/in/cyprians-mwanza-3665882b1?)  🌎 [Portfolio](https://dainty-cajeta-33ae41.netlify.app/)
 
 ## 👋 Hello!  
-I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya with 2 years of Experience in various programming languages and technologies. I possess extensive experience in web development, mobile app development, and AI & machine learning. My goal is to build efficient, scalable, and user-friendly applications that solve real-world problems.
+I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya with 2 years of Experience in various programming languages and technologies. I possess extensive experience in web development,and mobile app development. My goal is to build efficient, scalable, and user-friendly applications that solve real-world problems.
 
 ---
 
@@ -15,15 +15,14 @@ I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya with 2
 
 🖥 **Frontend Technologies:** Thymeleaf, JSP, React js. 
 
-🛠 **Tools & Platforms:** Docker, Jenkins, GitLab, AWS (S3, EC2)  .
+🛠 **Tools & Platforms:** Docker,s, AWS  .
 
 ⚡ **Databases:** MySQL, PostgreSQL, MongoDB, Firebase  .
 
-🔗 **CI/CD & DevOps:** Git, GitHub, GitLab CI, TeamCity  .
+🔗 **CI/CD & DevOps:** GitHub.
 
-🔍 **Testing:** JUnit, Mockito, Integration Testing  .
+🔍 **Testing:** JUnit, Integration Testing  .
 
-📱 **Mobile Development:** Flutter Dart, Firebase  
 ---
 
 
@@ -51,21 +50,6 @@ I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya with 2
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
 
-
-
-## 🏆 Certifications  
-✅ **Oracle Certified Professional: Java SE**  
-✅ **AWS Certified Developer – Associate**  
-
----
-
-## 💡 Projects  
-
-🔹 **Web Application**  
-🚀 Scalable **Java-based** conversational AI system with modular query handling.  
-
-🔹 **Mobile Application**  
-📱 **Kotlin Android** app with **Firebase** integration & secure file storage.  
 
 ---
 
