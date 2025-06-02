@@ -1,7 +1,6 @@
-# 👨‍💻Cyprians Mwanza | Software Engineer👨‍💻
+#Cyprians Mwanza | Software Engineer👨‍💻
 
-🌍 Nairobi, Kenya | 📧 cypriansmwanza@gmail.com | [🔗 LinkedIn](https://www.linkedin.com/in/cyprians-mwanza-3665882b1?)  🌎 [Portfolio](https://dainty-cajeta-33ae41.netlify.app/)
-
+🌍 Nairobi, Kenya | 📧 cypriansmwanza@gmail.com | [🔗 LinkedIn](https://www.linkedin.com/in/cyprians-mwanza-3665882b1?)
 ## 👋 Hello!  
 I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya with 2 years of Experience in various programming languages and technologies. I possess extensive experience in web development,and mobile app development. My goal is to build efficient, scalable, and user-friendly applications that solve real-world problems.
 
@@ -9,19 +8,19 @@ I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya with 2
 
 ## 💻 Tech Stack  
 
-🚀 **Languages:** Java (Strong), Kotlin, Python, JavaScript, C#, Flutter Dart.
+ **Languages:** Java (Strong), Kotlin, Python, JavaScript, C#, Flutter Dart.
 
-📦 **Backend Frameworks:** Spring Boot, Spring Security, Hibernate/JPA, Django  ,.NetCore.
+**Backend Frameworks:** Spring Boot, Spring Security, Hibernate/JPA, Django  ,.NetCore.
 
-🖥 **Frontend Technologies:** Thymeleaf, JSP, React js. 
+**Frontend Technologies:** Thymeleaf, JSP, React js. 
 
-🛠 **Tools & Platforms:** Docker,s, AWS  .
+**Tools & Platforms:** Docker,s, AWS  .
 
-⚡ **Databases:** MySQL, PostgreSQL, MongoDB, Firebase  .
+**Databases:** MySQL, PostgreSQL, MongoDB, Firebase  .
 
-🔗 **CI/CD & DevOps:** GitHub.
+**CI/CD & DevOps:** GitHub.
 
-🔍 **Testing:** JUnit, Integration Testing  .
+**Testing:** JUnit, Integration Testing  .
 
 ---
 
@@ -57,5 +56,3 @@ I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya with 2
 💼 [LinkedInLinkedIn](https://www.linkedin.com/in/cyprians-mwanza-3665882b1?) 
 
 📧 Email cypriansmwanza@gmail.com
-
-🌎 [Portfolio](https://dainty-cajeta-33ae41.netlify.app/)
