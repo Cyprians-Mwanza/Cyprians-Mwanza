@@ -49,9 +49,6 @@ I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya with 2
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
 
-
----
-
 ## 📫 Let's Connect!  
 💼 [LinkedInLinkedIn](https://www.linkedin.com/in/cyprians-mwanza-3665882b1?) 
 
