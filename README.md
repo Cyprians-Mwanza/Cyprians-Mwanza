@@ -21,8 +21,10 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 🌱 Currently focused on: Django Microservices, Android (Kotlin), and Laravel Projects  
 📫 Reach me at: **cypriansmwanza@gmail.com**
 
----
 
+
+
+---
 <b>🛠 Tech Stack</b><br><br>
 
 **Languages:**  
