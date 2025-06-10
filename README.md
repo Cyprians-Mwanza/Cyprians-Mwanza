@@ -3,11 +3,12 @@
 🌍 Nairobi, Kenya |  cypriansmwanza@gmail.com | [LinkedIn](https://www.linkedin.com/in/cyprians-mwanza-3665882b1?)
 
 ---
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
+👨🏻‍💻 **About Me**: <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya with 3 years of Experience in various programming languages and technologies. I possess extensive experience in web development,and mobile app development. My goal is to build efficient, scalable, and user-friendly applications that solve real-world problems.
 
---- 
 
+
+---
 ## 💻 Tech Stack  
 
  **Languages:** Java (Strong), Kotlin, Python, JavaScript, C#, Flutter Dart.
