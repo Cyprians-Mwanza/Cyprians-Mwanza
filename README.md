@@ -1,4 +1,4 @@
-## <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/sanjay-k-v/">Cyprians 👨‍💻</a> </h1>
+## <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/cyprians-mwanza-3665882b1?">Cyprians 👨‍💻</a> </h1>
 
 🌍 Nairobi, Kenya |  cypriansmwanza@gmail.com | [LinkedIn](https://www.linkedin.com/in/cyprians-mwanza-3665882b1?)
 
@@ -34,6 +34,12 @@
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyprians-Mwanza&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
+
+  <summary><b>⚙️ GitHub Analytics</b></summary>
+<a href="https://github.com/Cyprians-Mwanza">
+   <img height="155em" src="https://raw.githubusercontent.com/Cyprians-Mwanza/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
+<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Cyprians-Mwanza&theme=swift&no-frame=false&no-bg=false&margin-w=4)
