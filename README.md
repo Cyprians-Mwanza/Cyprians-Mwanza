@@ -2,7 +2,7 @@
 
 🌍 Nairobi, Kenya |  cypriansmwanza@gmail.com | [LinkedIn](https://www.linkedin.com/in/cyprians-mwanza-3665882b1?)
 
-I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya with 2 years of Experience in various programming languages and technologies. I possess extensive experience in web development,and mobile app development. My goal is to build efficient, scalable, and user-friendly applications that solve real-world problems.
+I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya with 3 years of Experience in various programming languages and technologies. I possess extensive experience in web development,and mobile app development. My goal is to build efficient, scalable, and user-friendly applications that solve real-world problems.
 
 ---
 
