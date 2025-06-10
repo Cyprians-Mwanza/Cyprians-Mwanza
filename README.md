@@ -62,14 +62,14 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 
 ---
 
-<summary><b>🧠 My Dev Brain</b></summary>
+### 🧠 My Dev Brain
 
 [![Cyprians-Mwanza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyprians-Mwanza&show_icons=true)](https://github.com/Cyprians-Mwanza)
 
 
 
 
-### ✍️Dev Quote
+### 🧠 Code Philosophy
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
