@@ -31,10 +31,10 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">&nbsp;
 
-**Web & Mobile:**  
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">&nbsp;
+**Frameworks & Libraries:**  
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">&nbsp;
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">&nbsp;
 
 **Databases:**  
@@ -50,6 +50,10 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 
 **Version Control:**  
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">&nbsp;
+
+
+**Cloud Platforms:**  
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">&nbsp;
 
 ---
 
