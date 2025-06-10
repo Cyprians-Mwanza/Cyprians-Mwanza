@@ -1,59 +1,61 @@
-## <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/cyprians-mwanza-3665882b1?">Cyprians 👨‍💻</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/cyprians-mwanza-3665882b1/">Cyprians</a> 👋</h1>
 
-🌍 Nairobi, Kenya | 📧 cypriansmwanza@gmail.com | [LinkedIn](https://www.linkedin.com/in/cyprians-mwanza-3665882b1?)
+<!-- Header Links -->
+<p align="center">
+  <a href="#">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/cyprians-mwanza-3665882b1/">LinkedIn</a> -
+  <a href="#">Twitter</a> -
+  <a href="#">Website</a> -
+  <a href="#">Featured</a> -
+  <a href="#">Contact Me</a>
+</p>
 
 ---
 
-👨🏻‍💻 **About Me**:  
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
+👨‍💻 **About Me**  
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350px" align="right">
 
-I'm **Cyprians Mwanza**, a **Full Stack Software Engineer** based in Nairobi, Kenya with **5 years of experience** in various programming languages and technologies.  
-I possess extensive experience in **web development** and **mobile app development**.  
-My goal is to build **efficient**, **scalable**, and **user-friendly applications** that solve real-world problems.
+I'm **Cyprians Mwanza**, a **Full Stack Software Engineer** from **Nairobi, Kenya** with **5 years of experience** in web development, mobile apps, and AI/ML.  
+I love building **efficient**, **scalable**, and **user-friendly** solutions that solve real-world problems.
+
+🌱 Currently focused on: Django Microservices, Android (Kotlin), and Laravel Projects  
+📫 Reach me at: **cypriansmwanza@gmail.com**
 
 ---
 
-## 💻 Tech Stack  
+<b>🛠 Tech Stack</b><br><br>
 
 **Languages:**  
-✔ Java (Strong) &nbsp;&nbsp; ✔ Kotlin &nbsp;&nbsp; ✔ Python &nbsp;&nbsp; ✔ JavaScript &nbsp;&nbsp; ✔ C# &nbsp;&nbsp; ✔ Dart (Flutter)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">&nbsp;
 
-**Backend Frameworks:**  
-✔ Spring Boot &nbsp;&nbsp; ✔ Spring Security &nbsp;&nbsp; ✔ Hibernate/JPA &nbsp;&nbsp; ✔ Django &nbsp;&nbsp; ✔ .NET Core
-
-**Frontend Technologies:**  
-✔ Thymeleaf &nbsp;&nbsp; ✔ JSP &nbsp;&nbsp; ✔ React.js
-
-**Tools & Platforms:**  
-✔ Docker &nbsp;&nbsp; ✔ AWS
+**Web & Mobile:**  
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">&nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">&nbsp;
 
 **Databases:**  
-✔ MySQL &nbsp;&nbsp; ✔ PostgreSQL &nbsp;&nbsp; ✔ MongoDB &nbsp;&nbsp; ✔ Firebase
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">&nbsp;
 
-**CI/CD & DevOps:**  
-✔ GitHub
-
-**Testing:**  
-✔ JUnit &nbsp;&nbsp; ✔ Integration Testing
-
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Cyprians-Mwanza&theme=swift&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Cyprians-Mwanza&theme=swift&hide_border=false)
-
----
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyprians-Mwanza&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Tools:**  
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">&nbsp;
 
 ---
 
 <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/Cyprians-Mwanza">
-   <img height="155em" src="https://raw.githubusercontent.com/Cyprians-Mwanza/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Cyprians Mwanza github stats" />
-   <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Cyprians Mwanza github stats" />
 
----
+<a href="https://github.com/Cyprians-Mwanza">
+  <img height="155em" src="https://raw.githubusercontent.com/Cyprians-Mwanza/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" />
+</a>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Cyprians-Mwanza&theme=swift&no-frame=false&no-bg=false&margin-w=4)
