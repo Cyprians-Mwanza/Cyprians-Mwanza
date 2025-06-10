@@ -58,14 +58,8 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 </a>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Cyprians-Mwanza&theme=swift&no-frame=false&no-bg=false&margin-w=4)
 
----
-
-### ✍️ Random Dev Quote
+### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
 
 
