@@ -64,10 +64,7 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 
 <summary><b>⚙️ GitHub Analytics</b></summary>
 
-<a href="https://github.com/Cyprians-Mwanza">
-  <img height="155em" src="https://raw.githubusercontent.com/Cyprians-Mwanza/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
-  <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyprians-Mwanza)](https://github.com/Cyprians-Mwanza/github-readme-stats)
 
 
 
