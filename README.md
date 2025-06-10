@@ -63,8 +63,10 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 ---
 
 <summary><b>⚙️ GitHub Analytics</b></summary>
+<summary><b>⚙️ GitHub Analytics</b></summary>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyprians-Mwanzashow_icons=true)](https://github.com/Cyprians-Mwanza/github-readme-statsshow_icons=true)
+[![Cyprians-Mwanza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyprians-Mwanza&show_icons=true)](https://github.com/Cyprians-Mwanza)
+
 
 
 
