@@ -3,7 +3,6 @@
 <!-- Header Links -->
 <p align="center">
 <!--   <a href="#">Portfolio</a> - -->
-  <a href="https://www.linkedin.com/in/cyprians-mwanza-3665882b1/">LinkedIn</a>
 <!--   <a href="#">Twitter</a> - -->
 <!--   <a href="#">Website</a> - -->
 <!--   <a href="#">Featured</a> - -->
@@ -20,10 +19,11 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 🌱 Currently focused on: Django Microservices, and Android (Flutter).
 
 📫 Reach me at: **cypriansmwanza@gmail.com**
+<a href="https://www.linkedin.com/in/cyprians-mwanza-3665882b1/">LinkedIn</a>
 
 
 <!--- Adding Tech Stack open Section -->
----
+
 **🛠 Tech Stack**
 
 **Languages:**  
