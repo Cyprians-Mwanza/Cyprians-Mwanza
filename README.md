@@ -1,4 +1,4 @@
-## Cyprians Mwanza | Software Engineer👨‍💻
+## <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/sanjay-k-v/">Cyprians</a> </h1>👨‍💻
 
 🌍 Nairobi, Kenya | 📧 cypriansmwanza@gmail.com | [🔗 LinkedIn](https://www.linkedin.com/in/cyprians-mwanza-3665882b1?)
 ## 👋 Hello!  
@@ -6,7 +6,7 @@ I'm Cyprians Mwanza, Full Stack Software Engineer based in Nairobi, Kenya with 2
 
 ---
 
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/sanjay-k-v/">Sanjay</a> </h1>
+
 
 <!--- Adding Header Elements -->
 <p align="center">
