@@ -68,15 +68,4 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Cyprians-Mwanza&limit=5&theme=swift&combine_all_yearly_contributions=true)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=Cyprians-Mwanza&icon=9&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
-
-## 📫 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/cyprians-mwanza-3665882b1?)  
-📧 cypriansmwanza@gmail.com
