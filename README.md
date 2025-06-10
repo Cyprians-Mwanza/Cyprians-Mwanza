@@ -15,7 +15,7 @@
 👨‍💻 **About Me**  
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350px" align="right">
 
-I'm **Cyprians Mwanza**, a **Full Stack Software Engineer** from **Nairobi, Kenya** with **5 years of experience** in web development, and mobile apps.  
+I'm **Cyprians Mwanza**, a **Full Stack Software Engineer** from **Nairobi, Kenya** with **5 years of experience** in web development, and mobile apps development.  
 I love building **efficient**, **scalable**, and **user-friendly** solutions that solve real-world problems.
 
 🌱 Currently focused on: Django Microservices, and Android (Flutter).
