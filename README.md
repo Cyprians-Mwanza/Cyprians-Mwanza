@@ -57,9 +57,6 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 **Development Practices:**  
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat&logo=architect&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white">&nbsp;
 
 
 
