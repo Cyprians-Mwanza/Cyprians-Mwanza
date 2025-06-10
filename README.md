@@ -58,13 +58,6 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat&logo=architect&logoColor=white">&nbsp;
 
-**Machine Learning Frameworks:**  
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">&nbsp;
-
-
-
 
 ---
 
