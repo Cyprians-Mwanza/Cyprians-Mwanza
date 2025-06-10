@@ -3,7 +3,7 @@
 <!-- Header Links -->
 <p align="center">
 <!--   <a href="#">Portfolio</a> - -->
-  <a href="https://www.linkedin.com/in/cyprians-mwanza-3665882b1/">LinkedIn</a> -
+  <a href="https://www.linkedin.com/in/cyprians-mwanza-3665882b1/">LinkedIn</a>
 <!--   <a href="#">Twitter</a> - -->
 <!--   <a href="#">Website</a> - -->
 <!--   <a href="#">Featured</a> - -->
