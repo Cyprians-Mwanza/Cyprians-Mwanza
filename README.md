@@ -24,8 +24,8 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 
 
 
+---
 <b>🛠 Tech Stack</b><br><br>
-
 **Languages:**  
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">&nbsp;
