@@ -21,17 +21,7 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 🌱 Currently focused on: Django Microservices, and Android (Flutter).
 📫 Reach me at: **cypriansmwanza@gmail.com**
 
-
-
-
-
-
-
-
-
-
-
----
+----------------
 <b>🛠 Tech Stack</b><br><br>
 **Languages:**  
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">&nbsp;
