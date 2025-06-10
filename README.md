@@ -42,8 +42,7 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">&nbsp;
-
-**Tools:**  
+ 
 **Containerization:**  
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">&nbsp;
 
