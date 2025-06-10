@@ -19,10 +19,14 @@ I'm **Cyprians Mwanza**, a **Full Stack Software Engineer** from **Nairobi, Keny
 I love building **efficient**, **scalable**, and **user-friendly** solutions that solve real-world problems.
 
 🌱 Currently focused on: Django Microservices, and Android (Flutter).
+
 📫 Reach me at: **cypriansmwanza@gmail.com**
 
+
 <!--- Adding Tech Stack open Section -->
-<b>🛠 Tech Stack</b><br><br>
+
+**🛠 Tech Stack**
+
 **Languages:**  
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">&nbsp;
