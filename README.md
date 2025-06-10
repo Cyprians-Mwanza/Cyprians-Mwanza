@@ -10,7 +10,7 @@
 <!--   <a href="cypriansmwanza@gmail.com">Contact Me</a> -->
 </p>
 
----
+-----------------------------------------------------------
 
 👨‍💻 **About Me**  
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350px" align="right">
@@ -24,7 +24,7 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 
 
 <!--- Adding Tech Stack open Section -->
-
+---
 **🛠 Tech Stack**
 
 **Languages:**  
