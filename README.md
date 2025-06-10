@@ -7,7 +7,7 @@
 <!--   <a href="#">Twitter</a> - -->
 <!--   <a href="#">Website</a> - -->
 <!--   <a href="#">Featured</a> - -->
-  <a href="cypriansmwanza@gmail.com">Contact Me</a>
+<!--   <a href="cypriansmwanza@gmail.com">Contact Me</a> -->
 </p>
 
 ---
