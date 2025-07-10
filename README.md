@@ -29,12 +29,14 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 **🛠 Tech Stack**
 
 **Languages:**  
+
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">&nbsp;
 
 
 **Frameworks & Libraries:**  
+
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">&nbsp;
@@ -42,12 +44,14 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">&nbsp;
 
 **Databases:** 
+
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">&nbsp;
  
 **Containerization:**  
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">&nbsp;
 
 
@@ -55,10 +59,12 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">&nbsp;
 
 
-**Cloud Platforms:**  
+**Cloud Platforms:** 
+
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">&nbsp;
 
 **Development Practices:**  
+
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat&logo=architect&logoColor=white">&nbsp;
 
