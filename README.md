@@ -29,6 +29,7 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 **🛠 Tech Stack**
 
 **Languages:**  
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">&nbsp;
 
