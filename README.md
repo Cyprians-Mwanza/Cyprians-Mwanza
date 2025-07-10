@@ -31,9 +31,10 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 **Languages:**  
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">&nbsp;
+
 
 **Frameworks & Libraries:**  
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">&nbsp;
