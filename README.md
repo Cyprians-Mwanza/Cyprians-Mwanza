@@ -80,6 +80,7 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 
 
 ### 🧠 Code Philosophy👨‍💻
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
