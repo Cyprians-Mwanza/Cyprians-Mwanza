@@ -13,7 +13,7 @@
 👨‍💻 **About Me**  
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350px" align="right">
 
-I'm **Cyprians Mwanza**, a **Full Stack Software Engineer** from **Nairobi, Kenya** with **5 years of experience** in web development, and mobile apps development.  
+I'm **Cyprians Mwanza**, a **Full Stack Software Engineer** from **Nairobi, Kenya** with **2 years of experience** in web development, and mobile apps development.  
 I love building **efficient**, **scalable**, and **user-friendly** solutions that solve real-world problems.
 
 🌱 Currently focused on: Django Microservices, and Android (Flutter).
@@ -33,6 +33,7 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 
 
 **Frameworks & Libraries:**  
