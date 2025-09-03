@@ -23,7 +23,9 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 
 
 
-------
+
+
+
 <!--- Adding Tech Stack open Section -->
 
 **🛠 Tech Stack**
