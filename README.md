@@ -13,8 +13,12 @@
 👨‍💻 **About Me**  
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350px" align="right">
 
-I'm **Cyprians Mwanza**, a **Full Stack Software Engineer** from **Nairobi, Kenya** with **2 years of experience** in web development, and mobile apps development.  
-I love building **efficient**, **scalable**, and **user-friendly** solutions that solve real-world problems.
+Results-driven Mobile Software Engineer with extensive experience in developing production-grade Flutter
+applications utilizing clean architecture, scalable state management, and optimized performance. Proven track
+record of contributing to high-traffic national platforms at Royal Media Services, including ViuSasa, Citizen
+Duka, and Citizen Digital. Proficient in REST API integration, local data storage, Firebase services, CI/CD
+practices, and deployment workflows. Dedicated to delivering secure, reliable, and user-centered applications
+that enhance user experiences
 
 🌱 Currently focused on: Django Microservices, and Android (Flutter).
 
@@ -33,7 +37,7 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 **Languages:**  
 
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">&nbsp;
+<!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">&nbsp; -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 
@@ -41,7 +45,7 @@ I love building **efficient**, **scalable**, and **user-friendly** solutions tha
 **Frameworks & Libraries:**  
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white">&nbsp;
+<!-- <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white">&nbsp; -->
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">&nbsp;
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">&nbsp;
