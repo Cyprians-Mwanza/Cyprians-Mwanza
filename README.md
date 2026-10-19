@@ -13,17 +13,24 @@
 👨‍💻 **About Me**  
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350px" align="right">
 
-Results-driven Mobile Software Engineer with extensive experience in developing production-grade Flutter
-applications utilizing clean architecture, scalable state management, and optimized performance. Proven track
-record of contributing to high-traffic national platforms at Royal Media Services, including ViuSasa, Citizen
-Duka, and Citizen Digital. Proficient in REST API integration, local data storage, Firebase services, CI/CD
-practices, and deployment workflows. Dedicated to delivering secure, reliable, and user-centered applications
-that enhance user experiences
-
-🌱 Currently focused on: Django Microservices, and Android (Flutter).
+Results-driven Information Technology professional with a Bachelor of Science in
+Information Technology and 1.5 years of hands-on experience in application
+development, business systems support, software maintenance, API integration,
+database management, and technical troubleshooting. Experienced in analyzing
+functional and non-functional business requirements, conducting User Acceptance
+Testing (UAT), documenting business processes, monitoring system performance,
+resolving technical incidents, and supporting application deployment and maintenance.
+Proficient in Java, Spring Boot, SQL, Flutter, Dart, REST API integration, and modern
+software design principles, with Salesforce Administration training and certification.
+Demonstrated ability to develop and maintain business applications, implement secure
+and resilient software solutions, support system integration, and provide end-user
+training and technical assistance. Strong problem-solving, analytical, documentation, and
+collaboration skills, with a commitment to ICT policy compliance, continuous learning,
+business process improvement, and reliable delivery of technology solutions aligned with
+organizational needs.
 
 📫 Reach me at: **cypriansmwanza@gmail.com**-
-<a href="https://www.linkedin.com/in/cyprians-mwanza-3665882b1/">LinkedIn</a>
+<a href="http://www.linkedin.com/in/cyprians-makau-mwanza-b2a370431">LinkedIn</a>
 
 
 
